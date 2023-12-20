@@ -1,0 +1,45 @@
+html{
+    width: 1440px;
+  
+    color: #F7D08A;
+   
+    
+}
+.main {
+    width: 964px;
+    margin: 0 auto;
+  /*border: 25px solid;*/
+  border-radius: 15;
+}
+#wonderw {
+    width: 100%;
+    margin: auto;
+    padding:100px;
+    /*box-sizing:border-box;*/
+   
+    font-family: 'Libre Baskerville', serif; 
+    font: size 96px;
+   
+    text-align: center;
+   
+}
+img {
+   /*border: 5px solid #5c3404;*/
+    width: 100%;
+    margin:auto;
+    padding:auto;
+
+    
+}
+h1 {
+    color: #E5890A;
+    text-align: center;
+    text-transform:uppercase;
+    letter-spacing: 15px;
+}    
+p {
+    
+    color: #9D5C0D;
+    text-align:center;
+    letter-spacing: 15px;
+}
